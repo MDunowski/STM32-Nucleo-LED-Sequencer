@@ -4,7 +4,7 @@ Interactive LED animation with hardwere debouncing on Nucleo-F411RE.
 # STM32 Nucleo-F411RE: Interactive LED Sequencer
 
 ## Project Demo
-Here is a short demonstration of the functioning project. The sequence changes direction when the onboard USER button (PC13) is pressed.
+The sequence changes direction when the onboard USER button (PC13) is pressed.
 
 ![Project Demo](demo.gif)
 
@@ -19,7 +19,7 @@ This repository contains a simple C project for the STM32 Nucleo-F411RE board. I
 
 ## Hardware Setup
 * STM32 Nucleo-F411RE
-* 6x LEDs with 330$\Omega$ resistors
+* 6x LEDs with 330 Ohm resistors
 * Breadboard and jumper wires
 
 ## How to Compile
