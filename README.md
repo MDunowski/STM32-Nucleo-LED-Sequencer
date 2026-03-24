@@ -6,6 +6,8 @@ Interactive LED animation with hardwere debouncing on Nucleo-F411RE.
 ## Project Demo
 Here is a short demonstration of the functioning project. The sequence changes direction when the onboard USER button (PC13) is pressed.
 
+![Project Demo](demo.gif)
+
 ## Overview
 This repository contains a simple C project for the STM32 Nucleo-F411RE board. It controls 6 external LEDs in a "knight rider" sequence. A software debounced button press changes the animation direction.
 
